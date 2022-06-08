@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Nav from "./components/Nav";
+import Nav from "./components/Navbar";
 import Home from "./components/Home/Home";
 import About from "./components/About/About";
 import Projects from "./components/Projects/Projects";
@@ -26,14 +26,14 @@ function App() {
   return (
     <Router>
       <div className="App" id={load ? "no-scroll" : "scroll"}>
-        <Nav />
-        <Routes>
+        <Nav></Nav>
+        { <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/project" element={<Projects />} />
           <Route path="/about" element={<About />} />
-          <Route path="/resume" element={<Resume />} />
-        </Routes>
-        <Footer />
+          {/* <Route path="/resume" element={<Resume />} /> */}
+        </Routes> }
+        { <Footer /> }
       </div>
     </Router>
   );

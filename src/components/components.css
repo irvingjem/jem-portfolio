@@ -1,0 +1,26 @@
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    text-decoration: none;
+    justify-content: flex-end;
+    margin-bottom: 15px;
+}
+
+.inline {
+    height: 100px;
+    background-color: #394D6B;
+    color: white;
+    font-size: 30px;
+    padding-top: 30px;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 29px;
+    letter-spacing: 2.2px;
+    word-spacing: 2.4px;
+    margin-bottom: .25em;
+    font-weight: 700;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+}
