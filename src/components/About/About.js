@@ -1,17 +1,51 @@
-import React from 'react'
+import React from "react";
+import { Container, Row, Col } from "react-bootstrap";
+import Particle from "../Particle";
+import Github from "./Github";
+import Techstack from "./Techstack";
+import Aboutcard from "./AboutCard";
+import Toolstack from "./Toolstack";
 
 function About() {
-
   return (
-    <section className="my-5" >
-      <h1 id="about">Who am I?</h1>
-      <div className="my-2">
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum turpis sed ex condimentum molestie. Mauris condimentum lectus ut ornare dignissim. Mauris faucibus urna mi, ac feugiat metus aliquam maximus. Proin aliquam justo nec diam vulputate vestibulum. Aenean sollicitudin nulla at nisi ornare, nec suscipit massa eleifend. Morbi tristique justo vel turpis sollicitudin, et tristique velit convallis. In hac habitasse platea dictumst. Phasellus mattis nunc sed orci consequat laoreet. Praesent id nisl nibh. Curabitur imperdiet ultricies mollis. In hac habitasse platea dictumst.
-      </p>
-      </div>
-    </section>
-  )
+    <Container fluid className="about-section">
+      <Particle />
+      <Container>
+        <Row style={{ justifyContent: "center", padding: "10px" }}>
+          <Col
+            md={7}
+            style={{
+              justifyContent: "center",
+              paddingTop: "30px",
+              paddingBottom: "50px",
+            }}
+          >
+            <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
+              More About <strong className="purple">Me</strong>
+            </h1>
+            <Aboutcard />
+          </Col>
+          <Col
+            md={5}
+            style={{ paddingTop: "120px", paddingBottom: "50px" }}
+            className="about-img"
+          >
+          </Col>
+        </Row>
+        <h1 className="project-heading">
+          Professional <strong className="purple">Skillset </strong>
+        </h1>
+
+        <Techstack />
+
+        <h1 className="project-heading">
+          <strong className="purple">Tools</strong> I use
+        </h1>
+        <Toolstack />
+        <Github />
+      </Container>
+    </Container>
+  );
 }
 
-export default About
+export default About;
