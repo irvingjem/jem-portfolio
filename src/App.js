@@ -8,7 +8,8 @@ import Footer from "./components/Footer";
 import {
   BrowserRouter as Router,
   Route,
-  Routes
+  Routes,
+  Navigate
 } from "react-router-dom";
 import "./style.css";
 import "./App.css";
@@ -24,7 +25,7 @@ function App() {
 
     return () => clearTimeout(timer);
   }, []);
-  
+
   return (
     <Router>
       {/* <Preloader load={load} /> */}
@@ -34,6 +35,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/project" element={<Projects />} />
           <Route path="/about" element={<About />} />
+          <Route path="*" element={<Navigate to="/"/>} />
         </Routes>
         <Footer />
       </div>
