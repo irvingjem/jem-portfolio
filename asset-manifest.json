@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/jem-portfolio/static/css/main.4835ff83.css",
+    "main.js": "/jem-portfolio/static/js/main.707ebf65.js",
+    "static/js/415.fc063c41.chunk.js": "/jem-portfolio/static/js/415.fc063c41.chunk.js",
+    "static/js/787.f6e65957.chunk.js": "/jem-portfolio/static/js/787.f6e65957.chunk.js",
+    "static/media/ny-magazine-1.jpg": "/jem-portfolio/static/media/ny-magazine-1.91930f315dff5e69e5f2.jpg",
+    "static/media/run-buddy.jpg": "/jem-portfolio/static/media/run-buddy.12fcade47344039fba32.jpg",
+    "static/media/pokebuilder-v2.jpg": "/jem-portfolio/static/media/pokebuilder-v2.1842ae54711a53093573.jpg",
+    "static/media/Budget-tool.jpg": "/jem-portfolio/static/media/Budget-tool.91af6d6789216549b3a9.jpg",
+    "static/media/Portrait.jpg": "/jem-portfolio/static/media/Portrait.26427c9d6e0b53802485.jpg",
+    "static/media/BH-logo2.png": "/jem-portfolio/static/media/BH-logo2.a0d407862b7fed01412b.png",
+    "static/media/posters-1.jpg": "/jem-portfolio/static/media/posters-1.eac820b5b5f3c9dec256.jpg",
+    "static/media/pre.svg": "/jem-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "static/media/jemlogoblack.svg": "/jem-portfolio/static/media/jemlogoblack.3f0b6af1bd4746720520387887fe226c.svg",
+    "index.html": "/jem-portfolio/index.html",
+    "main.4835ff83.css.map": "/jem-portfolio/static/css/main.4835ff83.css.map",
+    "main.707ebf65.js.map": "/jem-portfolio/static/js/main.707ebf65.js.map",
+    "415.fc063c41.chunk.js.map": "/jem-portfolio/static/js/415.fc063c41.chunk.js.map",
+    "787.f6e65957.chunk.js.map": "/jem-portfolio/static/js/787.f6e65957.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4835ff83.css",
+    "static/js/main.707ebf65.js"
+  ]
+}
