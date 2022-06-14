@@ -29,7 +29,6 @@ The page will reload if you make edits.
 This a project was built using <br>
 * Node.js
 * Inquirer
-* MongoDB
 * javaScript
 - React.js
 - Node.js

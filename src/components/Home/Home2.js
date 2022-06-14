@@ -10,7 +10,7 @@ function Home2() {
     <Container fluid className="home-about-section" id="about">
       <Container>
         <Row>
-          <Col md={10} className="home-about-description">
+          <Col md={0} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
               A LITTLE <span className="purple"> ABOUT </span> ME
             </h1>
@@ -47,8 +47,6 @@ function Home2() {
               </i>
             </p>
           </Col>
-          <Col md={4} className="myAvtar">
-          </Col>
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
@@ -69,7 +67,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/jem-irving/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

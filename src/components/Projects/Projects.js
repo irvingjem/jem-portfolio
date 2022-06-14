@@ -15,9 +15,9 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          My Recent <strong className="purple">Works </strong>
+          What I've Been <strong className="purple">Working On </strong>
         </h1>
-        <p style={{ color: "white" }}>
+        <p style={{ color: "black" }}>
           Here are some projects I've worked on.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>

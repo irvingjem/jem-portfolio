@@ -155,8 +155,8 @@ button:focus {
 }
 
 .logo {
-  height: 1.4em !important;
-  width: 2.5em !important;
+  height: 2.4em !important;
+  width: 3.5em !important;
 }
 
 .navbar-nav .nav-link {
@@ -259,7 +259,7 @@ button:focus {
 .home-content {
   padding: 9rem 0 2rem !important;
   color: rgb(4, 0, 0);
-  text-align: left;
+  text-align: center;
 }
 
 .heading {
@@ -297,11 +297,6 @@ button:focus {
   }
 }
 
-.myAvtar {
-  justify-content: center !important;
-  padding-top: 9em !important;
-}
-
 @media (max-width: 767px) {
   .myAvtar {
     padding-top: 2em !important;
@@ -326,7 +321,7 @@ button:focus {
 .home-about-body {
   padding-top: 50px;
   font-size: 1.2em !important;
-  text-align: left;
+  text-align: center;
 }
 
 .home-about-social {
@@ -566,7 +561,7 @@ button:focus {
 .tech-icons:hover {
   transform: scale(1.05) !important;
   overflow: hidden !important;
-  border: 2.2px solid rgba(197, 115, 230, 0.883) !important;
+  border: 2.2px solid rgba(0, 0, 0, 0.883) !important;
 }
 .tech-icon-images {
   padding: 20px !important;
@@ -575,7 +570,7 @@ button:focus {
 
 .quote-card-view {
   border: none !important;
-  color: white !important;
+  color: rgb(1, 1, 1) !important;
   background-color: transparent !important;
 }
 
