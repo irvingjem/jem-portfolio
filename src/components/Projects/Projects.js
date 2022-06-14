@@ -3,11 +3,11 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import pokebuilder from "../../Assets/Projects/pokebuilder-v2.jpg";
-// import emotion from "../../Assets/Projects/emotion.jpeg";
-// import editor from "../../Assets/Projects/codeEditor.png";
-// import chatify from "../../Assets/Projects/chatify.png";
-// import suicide from "../../Assets/Projects/suicide.png";
-// import bitsOfCode from "../../Assets/Projects/blog.png";
+import personalWork from "../../Assets/Projects/posters-1.jpg";
+import budgetTracker from "../../Assets/Projects/Budget-tool.jpg";
+import runBuddy from "../../Assets/Projects/run-buddy.jpg";
+import newYorker from "../../Assets/Projects/ny-magazine-1.jpg";
+import blanchetHouse from "../../Assets/Projects/BH-logo2.png";
 
 function Projects() {
   return (
@@ -25,64 +25,60 @@ function Projects() {
             <ProjectCard
               imgPath={pokebuilder}
               isBlog={false}
-              title="Plant AI"
-              description="This project set out to build a fun interactive experience where you can look up any Pokemon and save them to your user profile. Creating opportunities to set up teams for a next play through or just to have a team of 
-              your favorites."
+              title="Poke-Builder V2"
+              description="This project set out to build a fun interactive experience where you can look up any Pokemon and save them to your user profile. Creating opportunities to set up teams for a next play through or just to have a team of your favorites."
               link="https://github.com/irvingjem/poke-builder-V2"
             />
           </Col>
-          {/* <Col md={4} className="project-card">
+           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={runBuddy}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              link="https://github.com/soumyajit4419/Chatify"
+              title="Run Buddy"
+              description="A website that offers fitness training services."
+              link="https://github.com/irvingjem/run-buddy"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={blanchetHouse}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              link="https://github.com/soumyajit4419/Bits-0f-C0de"
+              title="Blanchet House Redesign"
+              description="A rebrand of the logo and a few assets for Blanchet House in Portland, OR"
+              link=""
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={budgetTracker}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              link="https://github.com/soumyajit4419/Editor.io"
-            />
-          </Col>
-
-          
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={suicide}
-              isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              link="https://github.com/soumyajit4419/AI_For_Social_Good"
+              title="Budget Tracker"
+              description="A PWA budget tracker to track expenses"
+              link="https://github.com/irvingjem/budget-tracker"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={emotion}
+              imgPath={newYorker}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              link="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
+              title="New Yorker Redesign"
+              description="Updated branding for The New Yorker magazine. Guidelines included retaining the current audience while actively trying to attract new readers. A new logo to modernize the brand, custom advertisments related to articles, and custom layout for all pages."
+              link=""
             />
-          </Col> */}
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={personalWork}
+              isBlog={false}
+              title="Personal Work"
+              description="This is a personal daily project started January 2019 with the intention of creating a new work everyday for the whole year. Themes that change monthly, allowing for different requirements for the month of work. This is done as a way to keep skills sharp and allow for creative learning."
+              link=""
+            />
+          </Col>
         </Row>
       </Container>
     </Container>
