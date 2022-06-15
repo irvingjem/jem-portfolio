@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.61b5a204.css",
-    "main.js": "/static/js/main.6064dbf3.js",
-    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/ny-magazine-1.jpg": "/static/media/ny-magazine-1.91930f315dff5e69e5f2.jpg",
-    "static/media/run-buddy.jpg": "/static/media/run-buddy.12fcade47344039fba32.jpg",
-    "static/media/pokebuilder-v2.jpg": "/static/media/pokebuilder-v2.1842ae54711a53093573.jpg",
-    "static/media/Budget-tool.jpg": "/static/media/Budget-tool.91af6d6789216549b3a9.jpg",
-    "static/media/Portrait.jpg": "/static/media/Portrait.26427c9d6e0b53802485.jpg",
-    "static/media/BH-logo2.png": "/static/media/BH-logo2.a0d407862b7fed01412b.png",
-    "static/media/Jem_Irving_Resume_CV.pdf": "/static/media/Jem_Irving_Resume_CV.987e5664914bec7be177.pdf",
-    "static/media/posters-1.jpg": "/static/media/posters-1.eac820b5b5f3c9dec256.jpg",
-    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
-    "static/media/jemlogoblack.svg": "/static/media/jemlogoblack.3f0b6af1bd4746720520387887fe226c.svg",
-    "index.html": "/index.html",
-    "main.61b5a204.css.map": "/static/css/main.61b5a204.css.map",
-    "main.6064dbf3.js.map": "/static/js/main.6064dbf3.js.map",
-    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/jem-portfolio/static/css/main.f4656704.css",
+    "main.js": "/jem-portfolio/static/js/main.abb1171e.js",
+    "static/js/415.4d6acbeb.chunk.js": "/jem-portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/jem-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/ny-magazine-1.jpg": "/jem-portfolio/static/media/ny-magazine-1.91930f315dff5e69e5f2.jpg",
+    "static/media/run-buddy.jpg": "/jem-portfolio/static/media/run-buddy.12fcade47344039fba32.jpg",
+    "static/media/pokebuilder-v2.jpg": "/jem-portfolio/static/media/pokebuilder-v2.1842ae54711a53093573.jpg",
+    "static/media/Budget-tool.jpg": "/jem-portfolio/static/media/Budget-tool.91af6d6789216549b3a9.jpg",
+    "static/media/Portrait.jpg": "/jem-portfolio/static/media/Portrait.26427c9d6e0b53802485.jpg",
+    "static/media/BH-logo2.png": "/jem-portfolio/static/media/BH-logo2.a0d407862b7fed01412b.png",
+    "static/media/Jem_Irving_Resume_CV.pdf": "/jem-portfolio/static/media/Jem_Irving_Resume_CV.987e5664914bec7be177.pdf",
+    "static/media/posters-1.jpg": "/jem-portfolio/static/media/posters-1.eac820b5b5f3c9dec256.jpg",
+    "static/media/pre.svg": "/jem-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "static/media/jemlogoblack.svg": "/jem-portfolio/static/media/jemlogoblack.3f0b6af1bd4746720520387887fe226c.svg",
+    "index.html": "/jem-portfolio/index.html",
+    "main.f4656704.css.map": "/jem-portfolio/static/css/main.f4656704.css.map",
+    "main.abb1171e.js.map": "/jem-portfolio/static/js/main.abb1171e.js.map",
+    "415.4d6acbeb.chunk.js.map": "/jem-portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/jem-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61b5a204.css",
-    "static/js/main.6064dbf3.js"
+    "static/css/main.f4656704.css",
+    "static/js/main.abb1171e.js"
   ]
 }
