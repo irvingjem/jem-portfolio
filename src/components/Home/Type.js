@@ -8,12 +8,11 @@ function Type() {
         strings: [
           "Developer",
           "Designer",
-          "MERN Stack Developer",
+          "MERN Stack",
           "User Experience Designer",
         ],
         autoStart: true,
         loop: true,
-        deleteSpeed: 75,
       }}
     />
   );
