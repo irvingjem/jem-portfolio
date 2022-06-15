@@ -20,7 +20,6 @@ function ProjectPages(props) {
           <div>
             <img src="" />
           </div>
-           
         </Col>
       </Row>
     </Container>

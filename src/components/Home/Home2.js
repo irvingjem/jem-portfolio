@@ -18,33 +18,22 @@ function Home2() {
               I am a developer with a background in User Centered Design
                             <br />
               <br />I am fluent in
-              <i>
                 <b> Javascript and the MERN Stack </b>
-              </i>
               <br />
               <br />
               What I'm Interested in. Building new &nbsp;
-              <i>
                 <b>Web Technologies and Products </b> and
-                also in areas related to
-                <b>
-                  Creating better tools for people.
-                </b>
-              </i>
+                also in areas related to creating better tools for people.
               <br />
               <br />
               I also apply my passion for developing
               with <b>Node.js</b> and
-              <i>
                 <b>
                   
                   Modern Javascript Library and Frameworks
                 </b>
-              </i>
               &nbsp; like
-              <i>
                 <b> React.js</b>
-              </i>
             </p>
           </Col>
         </Row>

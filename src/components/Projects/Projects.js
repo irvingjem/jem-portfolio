@@ -7,7 +7,8 @@ import budgetTracker from "../../Assets/Projects/Budget-tool.jpg";
 import runBuddy from "../../Assets/Projects/run-buddy.jpg";
 import newYorker from "../../Assets/Projects/ny-magazine-1.jpg";
 import blanchetHouse from "../../Assets/Projects/BH-logo2.png";
-import { Link } from "react-router-dom";
+import ProjectPages from "./ProjectPages";
+
 
 function Projects() {
   return (
@@ -44,6 +45,7 @@ function Projects() {
               title="Blanchet House Redesign"
               description="A rebrand of the logo and a few assets for Blanchet House in Portland, OR"
               link=""
+              
             />
           </Col>
 
@@ -63,7 +65,7 @@ function Projects() {
               isBlog={false}
               title="New Yorker Redesign"
               description="Updated branding for The New Yorker magazine. Guidelines included retaining the current audience while actively trying to attract new readers. A new logo to modernize the brand, custom advertisments related to articles, and custom layout for all pages."
-              link="/ProjectsPages/NewYorker"
+              link="/Newyork"
             />
           </Col>
 
@@ -79,6 +81,7 @@ function Projects() {
         </Row>
       </Container>
     </Container>
+    <ProjectPages />
     </section>
   );
 }
