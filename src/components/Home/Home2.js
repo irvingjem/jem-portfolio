@@ -26,21 +26,21 @@ function Home2() {
                 also in areas related to creating better tools for people.
               <br />
               <br />
-              I also apply my passion for developing
+              I also apply my passion for developing and designing
               with <b>Node.js</b> and
                 <b>
                   
-                  Modern Javascript Library and Frameworks
+                  Javascript Frameworks
                 </b>
               &nbsp; like
-                <b> React.js</b>
+                <b> React.js and Figma</b>
             </p>
           </Col>
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
             <p>
-              Feel free to <span>connect </span>with me
+              Feel free to <span>connect </span>
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
