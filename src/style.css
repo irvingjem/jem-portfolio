@@ -37,7 +37,7 @@ button:focus {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #2d1950;
+  background: #ffffff;
 }
 
 /* Handle */
@@ -350,6 +350,11 @@ button:focus {
 }
 
 @media (max-width: 767px) {
+  .footer{
+    padding-top: 0px;
+    position: relative;
+  }
+
   .footer-copywright {
     text-align: center !important;
   }
@@ -439,23 +444,6 @@ button:focus {
   font-weight: 500 !important;
   padding-top: 10px !important;
 }
-
-/* --------- */
-/* Project Galleries */
-/* --------- */
-
-
-
-/* .gallery {
-  display: flex;
-  flex-wrap: wrap;
-  margin: 25px 0 0 0;
-  justify-content: flex-start;
-} */
-
-.project-heading
-
-
 
 /* --------- */
 /* About */

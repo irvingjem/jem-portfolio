@@ -40,7 +40,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={blanchetHouse}
-              isBlog={false}
+              isGallery={true}
               title="Blanchet House Redesign"
               description="A rebrand of the logo and a few assets for Blanchet House in Portland, OR"
               link="/Blanchethouse"
@@ -61,7 +61,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={newYorker}
-              isBlog={false}
+              isGallery={true}
               title="New Yorker Redesign"
               description="Updated branding for The New Yorker magazine. Guidelines included retaining the current audience while actively trying to attract new readers. A new logo to modernize the brand, custom advertisments related to articles, and custom layout for all pages."
               link="/Newyork"
@@ -71,7 +71,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={personalWork}
-              isBlog={false}
+              isGallery={true}
               title="Personal Work"
               description="This is a personal daily project started January 2019 with the intention of creating a new work everyday for the whole year. Themes that change monthly, allowing for different requirements for the month of work. This is done as a way to keep skills sharp and allow for creative learning."
               link="/Personalwork"
