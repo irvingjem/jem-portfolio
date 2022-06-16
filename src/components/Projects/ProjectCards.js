@@ -12,7 +12,6 @@ function ProjectCards(props) {
           {props.description}
         </Card.Text>
         <Button variant="primary" href={props.link}  target="_blank">
-
           {"View Project"}
         </Button>
       </Card.Body>

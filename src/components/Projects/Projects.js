@@ -5,9 +5,8 @@ import pokebuilder from "../../Assets/Projects/pokebuilder-v2.jpg";
 import personalWork from "../../Assets/Projects/posters-1.jpg";
 import budgetTracker from "../../Assets/Projects/Budget-tool.jpg";
 import runBuddy from "../../Assets/Projects/run-buddy.jpg";
-import newYorker from "../../Assets/Projects/ny-magazine-1.jpg";
+import newYorker from "../../Assets/Projects/magazine/ny-magazine-1.jpg";
 import blanchetHouse from "../../Assets/Projects/BH-logo2.png";
-import ProjectPages from "./ProjectPages";
 
 
 function Projects() {
@@ -44,7 +43,7 @@ function Projects() {
               isBlog={false}
               title="Blanchet House Redesign"
               description="A rebrand of the logo and a few assets for Blanchet House in Portland, OR"
-              link=""
+              link="/Blanchethouse"
               
             />
           </Col>
@@ -75,13 +74,12 @@ function Projects() {
               isBlog={false}
               title="Personal Work"
               description="This is a personal daily project started January 2019 with the intention of creating a new work everyday for the whole year. Themes that change monthly, allowing for different requirements for the month of work. This is done as a way to keep skills sharp and allow for creative learning."
-              link=""
+              link="/Personalwork"
             />
           </Col>
         </Row>
       </Container>
     </Container>
-    <ProjectPages />
     </section>
   );
 }
