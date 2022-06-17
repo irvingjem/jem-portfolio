@@ -2,11 +2,11 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import pokebuilder from "../../Assets/Projects/pokebuilder-v2.jpg";
-import personalWork from "../../Assets/Projects/posters-1.jpg";
+import notetaker from "../../Assets/Projects/express-note-taker.jpg";
 import budgetTracker from "../../Assets/Projects/Budget-tool.jpg";
 import runBuddy from "../../Assets/Projects/run-buddy.jpg";
-import newYorker from "../../Assets/Projects/magazine/ny-magazine-1.jpg";
-import blanchetHouse from "../../Assets/Projects/BH-logo2.png";
+import employeetrack from "../../Assets/Projects/employee-tracker.jpg"
+import poekbuildsv1 from "../../Assets/Projects/Project-Screenshot.png";
 
 
 function Projects() {
@@ -39,11 +39,11 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={blanchetHouse}
+              imgPath={poekbuildsv1}
               isGallery={true}
-              title="Blanchet House Redesign"
-              description="A rebrand of the logo and a few assets for Blanchet House in Portland, OR"
-              link="/Blanchethouse"
+              title="Poke Builder Version 1"
+              description="We set out to build a site where you can look up the stats of any Pokemon by either name or number."
+              link="https://github.com/irvingjem/poke-builder"
               
             />
           </Col>
@@ -60,21 +60,21 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={newYorker}
+              imgPath={employeetrack}
               isGallery={true}
-              title="New Yorker Redesign"
-              description="Updated branding for The New Yorker magazine. Guidelines included retaining the current audience while actively trying to attract new readers. A new logo to modernize the brand, custom advertisments related to articles, and custom layout for all pages."
-              link="/Newyork"
+              title="Employee Tracker"
+              description="An application for an employer to track roles, managers and salaries from the command line"
+              link="https://github.com/irvingjem/mysql-employee-tracker"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={personalWork}
+              imgPath={notetaker}
               isGallery={true}
-              title="Personal Work"
-              description="This is a personal daily project started January 2019 with the intention of creating a new work everyday for the whole year. Themes that change monthly, allowing for different requirements for the month of work. This is done as a way to keep skills sharp and allow for creative learning."
-              link="/Personalwork"
+              title="Note Taker"
+              description="An express app deployed with Heroku to take notes!"
+              link="/https://github.com/irvingjem/note-taker"
             />
           </Col>
         </Row>

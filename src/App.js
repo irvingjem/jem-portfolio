@@ -38,9 +38,9 @@ function App() {
           <Route path="/project" element={<Projects />} />
           <Route path="/about" element={<About />} />
           <Route path="/resume" element={<Resume />} />
-          <Route path="/Newyork" element={<Newyork />} />
-          <Route path="/Personalwork" element={<Personalwork />} />
-          <Route path="/Blanchethouse" element={<Blanchethouse />} />
+          <Route path="/newyork" element={<Newyork />} />
+          <Route path="/personalwork" element={<Personalwork />} />
+          <Route path="/blanchethouse" element={<Blanchethouse />} />
           <Route path="*" element={<Navigate to="/"/>} />
         </Routes>
         <Footer />
