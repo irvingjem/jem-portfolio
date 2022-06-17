@@ -21,18 +21,17 @@ function Home2() {
                 <b> Javascript and the MERN Stack </b>
               <br />
               <br />
-              What I'm Interested in. Building new &nbsp;
-                <b>Web Technologies and Products </b> and
-                also in areas related to creating better tools for people.
+              My interests are building new&nbsp;
+                <b>web technologies and products </b> and
+                in areas related to creating better tools for people.
               <br />
               <br />
               I also apply my passion for developing and designing
               with <b>Node.js</b> and
                 <b>
-                  
-                  Javascript Frameworks
+                &nbsp;Javascript Frameworks
                 </b>
-              &nbsp; like
+              &nbsp;like
                 <b> React.js and Figma</b>
             </p>
           </Col>
@@ -40,7 +39,7 @@ function Home2() {
         <Row>
           <Col md={12} className="home-about-social">
             <p>
-              Feel free to <span>connect </span>
+              Where to find me
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
