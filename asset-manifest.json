@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/jem-portfolio/static/css/main.c01be14b.css",
-    "main.js": "/jem-portfolio/static/js/main.a02fa8a2.js",
+    "main.js": "/jem-portfolio/static/js/main.13c81c13.js",
     "static/js/787.1ed0c42c.chunk.js": "/jem-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/ny-magazine-1.jpg": "/jem-portfolio/static/media/ny-magazine-1.91930f315dff5e69e5f2.jpg",
     "static/media/run-buddy.jpg": "/jem-portfolio/static/media/run-buddy.12fcade47344039fba32.jpg",
+    "static/media/Project-Screenshot.png": "/jem-portfolio/static/media/Project-Screenshot.31180dafd882fdd0ad48.png",
     "static/media/posters-19.jpg": "/jem-portfolio/static/media/posters-19.a2aa6e203dc30614c23b.jpg",
     "static/media/posters-12.jpg": "/jem-portfolio/static/media/posters-12.e84035ada9a31d76246c.jpg",
     "static/media/posters-16.jpg": "/jem-portfolio/static/media/posters-16.04a31f1bb4f96faafb21.jpg",
@@ -23,7 +24,6 @@
     "static/media/magazine4.jpg": "/jem-portfolio/static/media/magazine4.3d08a44e8160a2bf332b.jpg",
     "static/media/posters-9.jpg": "/jem-portfolio/static/media/posters-9.caa2815bc1637a1d21e6.jpg",
     "static/media/posters-14.jpg": "/jem-portfolio/static/media/posters-14.6c53e6f04b6fb4d1c4bb.jpg",
-    "static/media/BH-logo2.png": "/jem-portfolio/static/media/BH-logo2.a0d407862b7fed01412b.png",
     "static/media/posters-20.jpg": "/jem-portfolio/static/media/posters-20.970f5f5208f24f5c0f05.jpg",
     "static/media/Window-Signage-Mockup.jpg": "/jem-portfolio/static/media/Window-Signage-Mockup.bffd11a3d133f1f51fce.jpg",
     "static/media/posters-5.jpg": "/jem-portfolio/static/media/posters-5.e19ff346f89c1b794ddf.jpg",
@@ -37,17 +37,19 @@
     "static/media/posters-6.jpg": "/jem-portfolio/static/media/posters-6.4fe7300e39497a34fd11.jpg",
     "static/media/posters-21.jpg": "/jem-portfolio/static/media/posters-21.e4ed01e24adcb274ee88.jpg",
     "static/media/magazine0.jpg": "/jem-portfolio/static/media/magazine0.2f9ddd20e47de4ee2b29.jpg",
+    "static/media/express-note-taker.jpg": "/jem-portfolio/static/media/express-note-taker.1db770ba45aec69a6ca6.jpg",
     "static/media/posters-23.jpg": "/jem-portfolio/static/media/posters-23.0c4814c9f89518835cb7.jpg",
     "static/media/Jem_Irving_resume.pdf": "/jem-portfolio/static/media/Jem_Irving_resume.c524e556e267213aeb51.pdf",
     "static/media/posters-13.jpg": "/jem-portfolio/static/media/posters-13.a9b619bbb54f09918946.jpg",
+    "static/media/employee-tracker.jpg": "/jem-portfolio/static/media/employee-tracker.2fbc59ec97c5a649d8c5.jpg",
     "static/media/jemlogoblack.svg": "/jem-portfolio/static/media/jemlogoblack.3f0b6af1bd4746720520387887fe226c.svg",
     "index.html": "/jem-portfolio/index.html",
     "main.c01be14b.css.map": "/jem-portfolio/static/css/main.c01be14b.css.map",
-    "main.a02fa8a2.js.map": "/jem-portfolio/static/js/main.a02fa8a2.js.map",
+    "main.13c81c13.js.map": "/jem-portfolio/static/js/main.13c81c13.js.map",
     "787.1ed0c42c.chunk.js.map": "/jem-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c01be14b.css",
-    "static/js/main.a02fa8a2.js"
+    "static/js/main.13c81c13.js"
   ]
 }
