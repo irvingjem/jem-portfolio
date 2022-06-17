@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jem-portfolio/static/css/main.9e6baf5a.css",
-    "main.js": "/jem-portfolio/static/js/main.bcc352d9.js",
+    "main.css": "/jem-portfolio/static/css/main.c01be14b.css",
+    "main.js": "/jem-portfolio/static/js/main.067b7410.js",
     "static/js/787.1ed0c42c.chunk.js": "/jem-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/ny-magazine-1.jpg": "/jem-portfolio/static/media/ny-magazine-1.91930f315dff5e69e5f2.jpg",
     "static/media/run-buddy.jpg": "/jem-portfolio/static/media/run-buddy.12fcade47344039fba32.jpg",
@@ -42,12 +42,12 @@
     "static/media/posters-13.jpg": "/jem-portfolio/static/media/posters-13.a9b619bbb54f09918946.jpg",
     "static/media/jemlogoblack.svg": "/jem-portfolio/static/media/jemlogoblack.3f0b6af1bd4746720520387887fe226c.svg",
     "index.html": "/jem-portfolio/index.html",
-    "main.9e6baf5a.css.map": "/jem-portfolio/static/css/main.9e6baf5a.css.map",
-    "main.bcc352d9.js.map": "/jem-portfolio/static/js/main.bcc352d9.js.map",
+    "main.c01be14b.css.map": "/jem-portfolio/static/css/main.c01be14b.css.map",
+    "main.067b7410.js.map": "/jem-portfolio/static/js/main.067b7410.js.map",
     "787.1ed0c42c.chunk.js.map": "/jem-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e6baf5a.css",
-    "static/js/main.bcc352d9.js"
+    "static/css/main.c01be14b.css",
+    "static/js/main.067b7410.js"
   ]
 }
