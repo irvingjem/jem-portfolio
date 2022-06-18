@@ -37,6 +37,7 @@ This a project was built using <br>
 - VsCode
 
 ## Demo
+![Portfolio sneak peek](./src/Assets/Screenshot%202022-06-18%20100155.jpg)
 ## Author 
 Me :)
 
