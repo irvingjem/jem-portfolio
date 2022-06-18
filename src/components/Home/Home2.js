@@ -3,7 +3,8 @@ import { Container, Row, Col } from "react-bootstrap";
 import {
   AiFillGithub,
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+import { FaLinkedinIn } from "react-icons/fa";  
+import { FaStackOverflow } from "react-icons/fa"
 
 function Home2() {
   return (
@@ -61,6 +62,16 @@ function Home2() {
                 >
                   <FaLinkedinIn />
                 </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="https://stackoverflow.com/users/17678844/jirving"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <FaStackOverflow />
+                  </a>
               </li>
             </ul>
           </Col>
