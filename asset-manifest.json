@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jem-portfolio/static/css/main.c01be14b.css",
-    "main.js": "/jem-portfolio/static/js/main.13c81c13.js",
+    "main.js": "/jem-portfolio/static/js/main.c09ef93c.js",
     "static/js/787.1ed0c42c.chunk.js": "/jem-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/ny-magazine-1.jpg": "/jem-portfolio/static/media/ny-magazine-1.91930f315dff5e69e5f2.jpg",
     "static/media/run-buddy.jpg": "/jem-portfolio/static/media/run-buddy.12fcade47344039fba32.jpg",
@@ -45,11 +45,11 @@
     "static/media/jemlogoblack.svg": "/jem-portfolio/static/media/jemlogoblack.3f0b6af1bd4746720520387887fe226c.svg",
     "index.html": "/jem-portfolio/index.html",
     "main.c01be14b.css.map": "/jem-portfolio/static/css/main.c01be14b.css.map",
-    "main.13c81c13.js.map": "/jem-portfolio/static/js/main.13c81c13.js.map",
+    "main.c09ef93c.js.map": "/jem-portfolio/static/js/main.c09ef93c.js.map",
     "787.1ed0c42c.chunk.js.map": "/jem-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c01be14b.css",
-    "static/js/main.13c81c13.js"
+    "static/js/main.c09ef93c.js"
   ]
 }
