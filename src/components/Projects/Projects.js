@@ -74,7 +74,7 @@ function Projects() {
               isGallery={true}
               title="Note Taker"
               description="An express app deployed with Heroku to take notes!"
-              link="/https://github.com/irvingjem/note-taker"
+              link="https://github.com/irvingjem/note-taker"
             />
           </Col>
         </Row>
