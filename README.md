@@ -30,14 +30,15 @@ This a project was built using <br>
 * Node.js
 * Inquirer
 * javaScript
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
+* React.js
+* Node.js
+* Express.js
+* CSS3
+* VsCode
 
 ## Demo
 ![Portfolio sneak peek](./src/Assets/Screenshot%202022-06-18%20100155.jpg)
+Link to deployed application - https://irvingjem.github.io/jem-portfolio
 ## Author 
 Me :)
 
