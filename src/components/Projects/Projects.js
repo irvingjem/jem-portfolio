@@ -40,7 +40,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={poekbuildsv1}
-              isGallery={true}
+              isBlog={false}
               title="Poke Builder Version 1"
               description="We set out to build a site where you can look up the stats of any Pokemon by either name or number."
               link="https://github.com/irvingjem/poke-builder"
@@ -61,7 +61,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={employeetrack}
-              isGallery={true}
+              isBlog={false}
               title="Employee Tracker"
               description="An application for an employer to track roles, managers and salaries from the command line"
               link="https://github.com/irvingjem/mysql-employee-tracker"
@@ -71,10 +71,20 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={notetaker}
-              isGallery={true}
+              isBlog={false}
               title="Note Taker"
               description="An express app deployed with Heroku to take notes!"
               link="https://github.com/irvingjem/note-taker"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={notetaker}
+              isBlog={false}
+              title="NFT Tracker"
+              description="A dashboard where you can watch transactions for new mints and sales of NFT's"
+              link="https://github.com/irvingjem/rascal-erratic"
             />
           </Col>
         </Row>

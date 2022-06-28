@@ -42,6 +42,7 @@ function Home2() {
             <p>
               Where to find me
             </p>
+            <p>Email - irving.jem@gmail.com</p>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
