@@ -7,7 +7,7 @@ import budgetTracker from "../../Assets/Projects/Budget-tool.jpg";
 import runBuddy from "../../Assets/Projects/run-buddy.jpg";
 import employeetrack from "../../Assets/Projects/employee-tracker.jpg"
 import poekbuildsv1 from "../../Assets/Projects/Project-Screenshot.png";
-
+import rascalErratic from "../../Assets/Projects/rascal-erratic.jpg"
 
 function Projects() {
   return (
@@ -18,7 +18,16 @@ function Projects() {
           What I've Been <strong>Working On </strong>
         </h1>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={10} className="project-card">
+        <Col md={10} className="project-card">
+            <ProjectCard
+              imgPath={rascalErratic}
+              isBlog={false}
+              title="Rascal Erratic"
+              description="A dashboard where you can watch and save transactions for new mints and sales of NFT's"
+              link="https://github.com/irvingjem/rascal-erratic"
+            />
+          </Col>
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={pokebuilder}
               isBlog={false}
@@ -75,16 +84,6 @@ function Projects() {
               title="Note Taker"
               description="An express app deployed with Heroku to take notes!"
               link="https://github.com/irvingjem/note-taker"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={notetaker}
-              isBlog={false}
-              title="NFT Tracker"
-              description="A dashboard where you can watch transactions for new mints and sales of NFT's"
-              link="https://github.com/irvingjem/rascal-erratic"
             />
           </Col>
         </Row>
