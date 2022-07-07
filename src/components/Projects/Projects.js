@@ -23,7 +23,7 @@ function Projects() {
               imgPath={rascalErratic}
               isBlog={false}
               title="Rascal Erratic"
-              description="A dashboard where you can watch and save transactions for new mints and sales of NFT's"
+              description="A dashboard where you can watch and save transactions for new mints and sales of NFT's from Magic Eden's API. This was build using the MERN stack!"
               link="https://github.com/irvingjem/rascal-erratic"
             />
           </Col>
