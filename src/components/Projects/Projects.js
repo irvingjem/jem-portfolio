@@ -25,6 +25,7 @@ function Projects() {
               title="Rascal Erratic"
               description="A dashboard where you can watch and save transactions for new mints and sales of NFT's from Magic Eden's API. This was build using the MERN stack!"
               link="https://github.com/irvingjem/rascal-erratic"
+              link2="https://rascal-erratic.herokuapp.com/"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -34,6 +35,7 @@ function Projects() {
               title="Poke Builder V2"
               description="This project set out to build a fun interactive experience where you can look up any Pokemon and save them to your user profile. Creating opportunities to set up teams for a next play through or just to have a team of your favorites."
               link ="https://github.com/irvingjem/poke-builder-V2"
+              link2="https://pokebuilder-v2.herokuapp.com/"
             />
           </Col>
            <Col md={4} className="project-card">
@@ -43,6 +45,7 @@ function Projects() {
               title="Run Buddy"
               description="A website that offers fitness training services."
               link="https://github.com/irvingjem/run-buddy"
+              link2=""
             />
           </Col>
 
@@ -53,7 +56,7 @@ function Projects() {
               title="Poke Builder Version 1"
               description="We set out to build a site where you can look up the stats of any Pokemon by either name or number."
               link="https://github.com/irvingjem/poke-builder"
-              
+              link2="https://irvingjem.github.io/poke-builder/"
             />
           </Col>
 
@@ -64,6 +67,7 @@ function Projects() {
               title="Budget Tracker"
               description="A PWA budget tracker to track expenses."
               link="https://github.com/irvingjem/budget-tracker"
+              link2="https://ji-budget-tracker.herokuapp.com/"
             />
           </Col>
 
@@ -74,6 +78,7 @@ function Projects() {
               title="Employee Tracker"
               description="An application for an employer to track roles, managers and salaries from the command line"
               link="https://github.com/irvingjem/mysql-employee-tracker"
+              link2="https://github.com/irvingjem/mysql-employee-tracker"
             />
           </Col>
 
@@ -84,6 +89,7 @@ function Projects() {
               title="Note Taker"
               description="An express app deployed with Heroku to take notes!"
               link="https://github.com/irvingjem/note-taker"
+              link2="https://ji-note-taker-app.herokuapp.com/"
             />
           </Col>
         </Row>

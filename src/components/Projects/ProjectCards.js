@@ -15,6 +15,9 @@ function ProjectCards(props) {
         <Button variant="primary" href={props.link}  target="_blank">
           {"View Project"}
         </Button>
+        <Button variant="priamry" href={props.link2} target="_blank">
+        {"View Live"}
+        </Button>
       </Card.Body>
     </Card>
   );
