@@ -23,7 +23,7 @@ function Projects() {
               imgPath={rascalErratic}
               isBlog={false}
               title="Rascal Erratic"
-              description="A dashboard where you can watch and save transactions for new mints and sales of NFT's from Magic Eden's API. This was build using the MERN stack!"
+              description="A dashboard where you can watch and save transactions for new mints and sales of NFT's from Magic Eden's API. This project was built using the MERN stack!"
               link="https://github.com/irvingjem/rascal-erratic"
               link2="https://rascal-erratic.herokuapp.com/"
             />
@@ -33,7 +33,7 @@ function Projects() {
               imgPath={pokebuilder}
               isBlog={false}
               title="Poke Builder V2"
-              description="This project set out to build a fun interactive experience where you can look up any Pokemon and save them to your user profile. Creating opportunities to set up teams for a next play through or just to have a team of your favorites."
+              description="This project set out to build a fun interactive experience where you can look up any Pokemon and save them to your user profile. Creating opportunities to set up teams for a next play through or just to have a team of your favorites.  This project was built using JavaScript, Node.js, MySQL, Express.js, Handlebars, Tailwind CSS, and bcrypt."
               link ="https://github.com/irvingjem/poke-builder-V2"
               link2="https://pokebuilder-v2.herokuapp.com/"
             />
@@ -43,7 +43,7 @@ function Projects() {
               imgPath={runBuddy}
               isBlog={false}
               title="Run Buddy"
-              description="A website that offers fitness training services."
+              description="A website that offers fitness training services. Front-end application made with HTML and CSS"
               link="https://github.com/irvingjem/run-buddy"
               link2=""
             />
@@ -54,7 +54,7 @@ function Projects() {
               imgPath={poekbuildsv1}
               isBlog={false}
               title="Poke Builder Version 1"
-              description="We set out to build a site where you can look up the stats of any Pokemon by either name or number."
+              description="We set out to build a site where you can look up the stats of any Pokemon by either name or number. This project was built using the PokeAPI and HTML, CSS, and JavaScript."
               link="https://github.com/irvingjem/poke-builder"
               link2="https://irvingjem.github.io/poke-builder/"
             />
@@ -65,7 +65,7 @@ function Projects() {
               imgPath={budgetTracker}
               isBlog={false}
               title="Budget Tracker"
-              description="A PWA budget tracker to track expenses."
+              description="A PWA budget tracker to track expenses. This was built using Node.js, MongoDB, JavaScript, and MongoDB."
               link="https://github.com/irvingjem/budget-tracker"
               link2="https://ji-budget-tracker.herokuapp.com/"
             />
@@ -76,7 +76,7 @@ function Projects() {
               imgPath={employeetrack}
               isBlog={false}
               title="Employee Tracker"
-              description="An application for an employer to track roles, managers and salaries from the command line"
+              description="An application for an employer to track roles, managers and salaries from the command line. This project was built with Node.js, Inquirer, MySQL, and Javascript."
               link="https://github.com/irvingjem/mysql-employee-tracker"
               link2="https://github.com/irvingjem/mysql-employee-tracker"
             />
@@ -87,7 +87,7 @@ function Projects() {
               imgPath={notetaker}
               isBlog={false}
               title="Note Taker"
-              description="An express app deployed with Heroku to take notes!"
+              description="An express app deployed with Heroku to take notes! This project was built with Node.js, Express.js, and Javascript."
               link="https://github.com/irvingjem/note-taker"
               link2="https://ji-note-taker-app.herokuapp.com/"
             />
