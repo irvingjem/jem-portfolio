@@ -45,7 +45,7 @@ function Projects() {
               title="Run Buddy"
               description="A website that offers fitness training services. Front-end application made with HTML and CSS"
               link="https://github.com/irvingjem/run-buddy"
-              link2=""
+              link2="https://irvingjem.github.io/run-buddy/"
             />
           </Col>
 
