@@ -25,7 +25,7 @@ function Projects() {
               title="Rascal Erratic"
               description="A dashboard where you can watch and save transactions for new mints and sales of NFT's from Magic Eden's API. This project was built using the MERN stack!"
               link="https://github.com/irvingjem/rascal-erratic"
-              link2="https://rascal-erratic.herokuapp.com/"
+              // link2="https://rascal-erratic.herokuapp.com/"
             />
           </Col>
           <Col md={4} className="project-card">
