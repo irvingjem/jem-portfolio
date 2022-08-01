@@ -43,6 +43,14 @@ function Home2() {
               Where to find me
             </p>
             <p>Email - irving.jem@gmail.com</p>
+            <p>
+            <a 
+              href='https://irvingjem.myportfolio.com/'
+              target='_blank'
+              rel='noreferrer'
+              className="icon-colour hom-social-icons"> Design Website</a> 
+              </p>
+              
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
