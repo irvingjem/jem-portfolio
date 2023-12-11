@@ -1,4 +1,4 @@
-# Personal Portfolio Tracker
+# Personal Portfolio
 
 ## USER STORY
 AS AN employer looking for candidates with experience building single-page applications
@@ -19,7 +19,7 @@ SO THAT I can assess whether they're a good candidate for an open position
 ## Installation
 1. Installation: `npm install`
 
-2. In the project directory, you can run: `npm start`
+2. In the directory, you can run: `npm run build`
 
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
