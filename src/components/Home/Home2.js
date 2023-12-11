@@ -16,14 +16,14 @@ function Home2() {
               About <span> Me </span> 
             </h1>
             <p className="home-about-body">
-              I am a developer with a background in User Centered Design
+              I am a web developer with experience with google analytics and a background in User Centered Design
                             <br />
-              <br />I am fluent in
-                <b> Javascript and the MERN Stack </b>
+              <br />I am well versed in
+                <b> HTML, CSS, Javascript and the MERN Stack </b>
               <br />
               <br />
               My interests are building new&nbsp;
-                <b>web technologies and products </b> and
+                <b>web technologies and products </b>
                 in areas related to creating better tools for people.
               <br />
               <br />
@@ -43,13 +43,6 @@ function Home2() {
               Where to find me
             </p>
             <p>Email - irving.jem@gmail.com</p>
-            <p>
-            <a 
-              href='https://irvingjem.myportfolio.com/'
-              target='_blank'
-              rel='noreferrer'
-              className="icon-colour hom-social-icons"> Design Website</a> 
-              </p>
               
             <ul className="home-about-social-links">
               <li className="social-icons">

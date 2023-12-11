@@ -4,7 +4,7 @@ import Github from "./Github";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import Toolstack from "./Toolstack";
-import headShot from "../../Assets/Portrait.jpg"
+import headShot from "../../Assets/Jem Portrait.jpg"
 
 function About() {
   return (
